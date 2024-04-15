@@ -1,2 +1,3 @@
 # Lista de Albuns
- Programar para registrar albuns de músicas ouvidos
+ Fiz este programa com o intuito de treinar minhas habilidades no relacionamentos de classes
+ e uso da biblioteca ArrayList. Pretendo no futuro melhorar ele, colocar GUI e tudo mais, tornar ele funcional.
