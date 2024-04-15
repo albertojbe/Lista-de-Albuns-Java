@@ -2,11 +2,11 @@ package Lista;
 
 public class Albuns {
     private String nome;
-    private int ano;
+    private String ano;
     private Banda banda;
     private String gênero;
     
-    public Albuns(String nome, int ano, Banda banda, String gênero) {
+    public Albuns(String nome, String ano, Banda banda, String gênero) {
         this.nome = nome;
         this.ano = ano;
         this.banda = banda;

@@ -23,7 +23,7 @@ public class Banda {
         }
     }
     
-    public void imprimir(String conteudo) {
+    public static void imprimir(String conteudo) {
         System.out.println(conteudo);
     }
     
